@@ -1,2 +1,1 @@
-# 7span-demo-shopify
-Demo Shopify store
+# Debut Shopify theme
